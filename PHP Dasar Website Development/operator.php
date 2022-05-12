@@ -39,5 +39,4 @@
         $a = "Hello";
         $b = " Word";
         echo $a . $b;
-
 ?>
